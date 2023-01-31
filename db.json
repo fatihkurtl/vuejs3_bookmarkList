@@ -1,0 +1,16 @@
+{
+  "bookmarks": [
+    {
+      "title": "Bootstrap",
+      "url": "https://getbootstrap.com/",
+      "description": "Mutlaka öğrenilip, kullanılması gereken harika bir frontend toolkit!!!",
+      "id": 3
+    },
+    {
+      "title": "Vue.js 3",
+      "url": "https://vuejs.org/",
+      "description": "Harika bir framework",
+      "id": 4
+    }
+  ]
+}
